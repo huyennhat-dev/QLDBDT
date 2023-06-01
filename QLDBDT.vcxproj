@@ -130,6 +130,7 @@
     <ClCompile Include="contact.cpp" />
     <ClCompile Include="phonebook.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="test.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="contact.h" />
